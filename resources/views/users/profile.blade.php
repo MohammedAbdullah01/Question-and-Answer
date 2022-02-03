@@ -103,7 +103,7 @@
         <div class="col-md-6">
             <div class="card" style="background-color: #6c757d" >
                 @if ($user->avatar == 'avatar.png')
-                <img src="{{asset('storage/defualt/'.$user->avatar)}}" alt="..." 
+                <img src="{{asset('defualt_user/defualt.png')}}" alt="..." 
                 style="border-radius: 50%; margin: auto; margin-top: 30px;" width="100px" height="100px">
                 @else
                 <img src="{{asset('storage/users/'.$user->avatar)}}" alt="..." 

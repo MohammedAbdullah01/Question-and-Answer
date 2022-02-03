@@ -108,7 +108,7 @@
         <!-- Copyright -->
         <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2); margin-top: 28%;">
         © 2020 Copyright:
-        <a class="text-white" href="https://mdbootstrap.com/">MDBootstrap.com</a>
+        <a class="text-white" href="https://github.com/mohamedabdallh">github.com/Mohamed Abdallh</a>
         </div>
         <!-- Copyright -->
     </footer>
